@@ -82,12 +82,12 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 
 ## 📸 Screenshots  
 
-### Password Strength Checker Interface  
+### Password Strength Checker Interface  Weak Password
 ![App Screenshot](./DEMO1.png)
 
 ### Example - Strong Password  
 ![Strong Password Example](./DEMO2.png)
 
-### Example - Weak Password  
+### Example - Strong Password  
 ![Weak Password Example](./DEMO3.png)
 
