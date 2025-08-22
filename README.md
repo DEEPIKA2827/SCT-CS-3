@@ -76,3 +76,6 @@ Deploy on Streamlit Cloud for public access
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
 
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
