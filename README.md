@@ -79,3 +79,15 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📜 License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 
+
+## 📸 Screenshots  
+
+### Password Strength Checker Interface  
+![App Screenshot](./DEMO1.png)
+
+### Example - Strong Password  
+![Strong Password Example](./DEMO2.png)
+
+### Example - Weak Password  
+![Weak Password Example](./DEMO3.png)
+
